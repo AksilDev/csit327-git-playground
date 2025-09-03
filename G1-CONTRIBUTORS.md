@@ -4,5 +4,5 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
-- Macansantos, Axcel (@AksilDev)
+- Macansantos, Axcel (**@AksilDev**)
 
